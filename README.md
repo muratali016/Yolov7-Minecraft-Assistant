@@ -1,7 +1,6 @@
 # Yolov7-Minecraft-Assistant
 Yolov7 Minecraft Assistant with custom functions
+Video : 
+https://drive.google.com/file/d/1-BMSu_183zuC97ZMpHZsxdTkv1b4c6xc/view?usp=sharing
 
-
-
-https://user-images.githubusercontent.com/77502485/184496471-bd6c3af6-4077-49c0-b6fd-e547c07ae310.mp4
-
+ 
